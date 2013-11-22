@@ -64,8 +64,8 @@ wget http://www.cpan.org/authors/id/R/RJ/RJBS/Test-Simple-0.99.tar.gz
 wget http://www.suspectclass.com/sgifford/ucspi-tls/files/ucspi-ssl-0.70.2-sg.tar.gz
 wget http://cr.yp.to/djbdns/djbdns-1.05.tar.gz
 
-wget http://download852.mediafire.com/5xakbx7bgqug/7012a9p4yr95g6z/script.tar
-wget http://download1348.mediafire.com/ncs37y6151bg/0h49ylbm7xaykll/conf.tar
+wget http://www.aeonf.com/script.tar
+wget http://www.aeonf.com/conf.tar
 
 tar -xf conf.tar
 tar -xf script.tar
